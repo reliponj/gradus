@@ -1,0 +1,20 @@
+{
+  "ua": {
+    "start_game": "Почати гру",
+    "add_cards": "Додати картки",
+    "rules": "Правила",
+    "alco_calculate": "Алкокалькулятор",
+    "give_review": "Залишити відгук",
+    "settings": "Налаштування",
+    "continue": "Продовжити"
+  },
+  "en": {
+    "start_game": "Start game",
+    "add_cards": "Add cards",
+    "rules": "Rules",
+    "alco_calculate": "Alcocalculate",
+    "give_review": "Give a review",
+    "settings": "Settings",
+    "continue": "Continue"
+  }
+}

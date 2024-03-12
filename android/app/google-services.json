@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "940540882171",
+    "project_id": "gradus-eb308",
+    "storage_bucket": "gradus-eb308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940540882171:android:0d3cb8f2103cebd746145e",
+        "android_client_info": {
+          "package_name": "com.example.gradus_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940540882171-u26qahc0s72vhagbg8d0ivvaej411a3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY3Yy8jX0BW9WbLTmhtoN2vx4kHUy-EqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940540882171-u26qahc0s72vhagbg8d0ivvaej411a3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940540882171-o0tnfuvrapil4i1hthe6o3srap8dict5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gradusNew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940540882171:android:060c3506475a1fde46145e",
+        "android_client_info": {
+          "package_name": "com.example.your_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940540882171-u26qahc0s72vhagbg8d0ivvaej411a3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY3Yy8jX0BW9WbLTmhtoN2vx4kHUy-EqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940540882171-u26qahc0s72vhagbg8d0ivvaej411a3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940540882171-o0tnfuvrapil4i1hthe6o3srap8dict5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gradusNew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940540882171:android:1a5233b7ec8ca61746145e",
+        "android_client_info": {
+          "package_name": "ua.com.gradusapp.gradus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940540882171-u26qahc0s72vhagbg8d0ivvaej411a3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY3Yy8jX0BW9WbLTmhtoN2vx4kHUy-EqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940540882171-u26qahc0s72vhagbg8d0ivvaej411a3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940540882171-o0tnfuvrapil4i1hthe6o3srap8dict5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gradusNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>940540882171-l4rnsqvbiuerf5al7o56nlbn62jjtfi1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.940540882171-l4rnsqvbiuerf5al7o56nlbn62jjtfi1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIha2ilrZxw0g4SoIhkp1fsaf2SO2KXnc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>940540882171</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ua.com.gradusapp.gradus</string>
+	<key>PROJECT_ID</key>
+	<string>gradus-eb308</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gradus-eb308.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:940540882171:ios:860e0f1a0e57160346145e</string>
+</dict>
+</plist>
